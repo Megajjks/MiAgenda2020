@@ -150,7 +150,7 @@
                     android:textSize="20dp" />
 
                 <Button
-                    android:id="@+id/btn_login_validate"
+                    android:id="@+id/btn_add_user"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Iniciar Sesión"
