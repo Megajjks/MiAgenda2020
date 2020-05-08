@@ -1,7 +1,7 @@
 package com.example.myagenda.utils;
 
 public class Utils {
-    public static final int db_varsion  = 1;
+    public static final int db_varsion  = 2;
     public static final String dbName = "agenda";
 
     //Tabla de usuarios
